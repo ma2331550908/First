@@ -1,0 +1,35 @@
+﻿生成启动时间为 2014/2/28 19:52:52。
+     1>项目“D:\Users\m\documents\visual studio 2010\Projects\ReadQQdb\ReadQQdb\ReadQQdb.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\ReadQQdb.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\ReadQQdb.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ReadQQdb.cpp
+         ReadQQdb.cpp
+     1>ReadQQdb.cpp(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>ReadQQdb.cpp(14): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>ReadQQdb.cpp(14): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>ReadQQdb.cpp(14): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>ReadQQdb.cpp(14): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>ReadQQdb.cpp(14): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>ReadQQdb.cpp(14): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>ReadQQdb.cpp(14): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>ReadQQdb.cpp(14): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>ReadQQdb.cpp(14): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\m\documents\visual studio 2010\Projects\ReadQQdb\Release\ReadQQdb.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\ReadQQdb.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Users\m\documents\visual studio 2010\Projects\ReadQQdb\Release\ReadQQdb.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\m\documents\visual studio 2010\Projects\ReadQQdb\Release\ReadQQdb.lib" /MACHINE:X86 Release\ReadQQdb.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         ReadQQdb.vcxproj -> D:\Users\m\documents\visual studio 2010\Projects\ReadQQdb\Release\ReadQQdb.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Users\m\documents\visual studio 2010\Projects\ReadQQdb\Release\ReadQQdb.exe;#1" /manifest Release\ReadQQdb.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\ReadQQdb.unsuccessfulbuild”。
+         正在对“Release\ReadQQdb.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Users\m\documents\visual studio 2010\Projects\ReadQQdb\ReadQQdb\ReadQQdb.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.03
